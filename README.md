@@ -1,4 +1,4 @@
-# OOP-Test-Projec
+# OOP-Test-Project
 
 A project to I did to understand how object orientation in java works
 
